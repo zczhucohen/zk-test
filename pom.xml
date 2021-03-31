@@ -37,6 +37,15 @@
       <artifactId>lombok</artifactId>
       <version>1.18.16</version>
     </dependency>
+
+    <dependency>
+      <groupId>org.apache.kafka</groupId>
+      <artifactId>kafka_2.12</artifactId>
+      <version>2.7.0</version>
+    </dependency>
+
+
+
   </dependencies>
 
 
